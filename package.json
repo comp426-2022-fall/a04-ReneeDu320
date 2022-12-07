@@ -1,0 +1,25 @@
+{
+  "name": "comp426",
+  "version": "1.0.0",
+  "description": "Web API created using Express and the module produced for a03",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a04-ReneeDu320.git"
+  },
+  "keywords": [
+    "hw4"
+  ],
+  "author": "shuang du",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a04-ReneeDu320/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a04-ReneeDu320#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
